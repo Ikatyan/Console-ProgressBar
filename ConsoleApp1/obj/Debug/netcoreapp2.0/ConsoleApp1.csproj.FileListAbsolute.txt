@@ -1,0 +1,12 @@
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.deps.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.runtimeconfig.dev.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ConsoleApp1.pdb
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ProgresBar.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/bin/Debug/netcoreapp2.0/ProgresBar.pdb
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.AssemblyInfo.cs
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ConsoleApp1/obj/Debug/netcoreapp2.0/ConsoleApp1.pdb

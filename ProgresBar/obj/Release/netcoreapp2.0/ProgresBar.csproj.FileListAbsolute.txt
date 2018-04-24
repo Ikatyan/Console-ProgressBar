@@ -1,0 +1,8 @@
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/bin/Release/netcoreapp2.0/ProgresBar.deps.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/bin/Release/netcoreapp2.0/ProgresBar.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/bin/Release/netcoreapp2.0/ProgresBar.pdb
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/obj/Release/netcoreapp2.0/ProgresBar.csproj.CoreCompileInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/obj/Release/netcoreapp2.0/ProgresBar.AssemblyInfoInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/obj/Release/netcoreapp2.0/ProgresBar.AssemblyInfo.cs
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/obj/Release/netcoreapp2.0/ProgresBar.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/obj/Release/netcoreapp2.0/ProgresBar.pdb
