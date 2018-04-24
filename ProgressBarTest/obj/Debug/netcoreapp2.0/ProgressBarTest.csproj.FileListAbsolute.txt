@@ -1,0 +1,15 @@
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgressBarTest.deps.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgressBarTest.runtimeconfig.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgressBarTest.runtimeconfig.dev.json
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgressBarTest.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgressBarTest.pdb
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgresBar.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/bin/Debug/netcoreapp2.0/ProgresBar.pdb
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/Debug/netcoreapp2.0/ProgressBarTest.csproj.CoreCompileInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/Debug/netcoreapp2.0/ProgressBarTest.AssemblyInfoInputs.cache
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/Debug/netcoreapp2.0/ProgressBarTest.AssemblyInfo.cs
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/Debug/netcoreapp2.0/ProgressBarTest.dll
+/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/Debug/netcoreapp2.0/ProgressBarTest.pdb

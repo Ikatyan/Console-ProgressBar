@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/ProgressBarTest.csproj",
+    "projectName": "ProgressBarTest",
+    "projectPath": "/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/ProgressBarTest.csproj",
+    "outputPath": "/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgressBarTest/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/ProgresBar.csproj": {
+            "projectPath": "/Users/yoshiki_mac/RiderProjects/ProgresBar/ProgresBar/ProgresBar.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.5.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
